@@ -1,0 +1,9 @@
+{
+  "experiment_0": {
+    "type": "drug_treatment",
+    "params": {
+      "drug_name": "NewDrugX",
+      "dose_mg_kg": 20.0
+    }
+  }
+}

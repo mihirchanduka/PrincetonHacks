@@ -1,0 +1,30 @@
+
+Virtual Mouse Lab - Single Mouse Simulation Summary
+===================================================
+
+Simulation Date: 2025-11-08 14:11:06
+Genome: chr19
+Description: chr19 GRCm39_chromosome_19 C57BL/6J
+
+MOUSE PHENOTYPES:
+-----------------
+  anxiety_score: 0.600
+  memory_score: 0.500
+  obesity_score: 0.500
+  tumor_risk: 0.100
+  aggression_score: 0.400
+  glucose: 1.000
+  cholesterol: 1.000
+  triglycerides: 1.000
+  ALT: 1.000
+
+EXPERIMENTAL RESULTS:
+---------------------
+  experiment_0: drug_treatment with {'drug_name': 'NewDrugX', 'dose_mg_kg': 20.0}
+
+BEHAVIOR ANALYSIS:
+------------------
+Total behavior data points: 300
+Time span: 299 seconds
+Center zone visits: 300
+Periphery zone visits: 0

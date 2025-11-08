@@ -1,0 +1,10 @@
+phenotype,score
+anxiety_score,0.6
+memory_score,0.5
+obesity_score,0.5
+tumor_risk,0.09999999999999998
+aggression_score,0.4
+glucose,1.0
+cholesterol,1.0
+triglycerides,1.0
+ALT,1.0

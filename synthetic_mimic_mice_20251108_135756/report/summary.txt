@@ -1,0 +1,46 @@
+
+Virtual Mouse Lab - Twin Simulation Summary
+===========================================
+
+Simulation Date: 2025-11-08 13:57:56
+
+TWIN COMPARISON SUMMARY:
+------------------------
+Genetic Similarity: 0.254
+Phenotype Similarity: 1.000
+Overall Similarity: 0.627
+
+TWIN 1 PHENOTYPES:
+------------------
+  anxiety_score: 0.700
+  memory_score: 0.500
+  obesity_score: 0.550
+  tumor_risk: 0.100
+  aggression_score: 0.400
+  glucose: 1.000
+  cholesterol: 1.000
+  triglycerides: 1.000
+  ALT: 1.000
+
+TWIN 2 PHENOTYPES:
+------------------
+  anxiety_score: 0.700
+  memory_score: 0.500
+  obesity_score: 0.550
+  tumor_risk: 0.100
+  aggression_score: 0.400
+  glucose: 1.000
+  cholesterol: 1.000
+  triglycerides: 1.000
+  ALT: 1.000
+
+EXPERIMENTAL RESULTS:
+---------------------
+  experiment_0: high_fat_diet with {'obesity_increase': 0.15}
+  experiment_1: drug_treatment with {'drug_name': 'NewDrugX', 'dose_mg_kg': 20.0}
+
+BEHAVIOR ANALYSIS:
+------------------
+  center_time_similarity: 0.633
+  distance_similarity: 1.000
+  speed_similarity: 1.000

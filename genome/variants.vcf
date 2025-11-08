@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##source=SyntheticMouseGenerator
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr19	10	.	C	G	.	PASS	.
+chr19	20	.	T	A	.	PASS	.

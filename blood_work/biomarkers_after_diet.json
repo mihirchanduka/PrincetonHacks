@@ -1,0 +1,10 @@
+{
+  "glucose": {
+    "value": 120,
+    "units": "mg/dL"
+  },
+  "cholesterol": {
+    "value": 300.0,
+    "units": "mg/dL"
+  }
+}

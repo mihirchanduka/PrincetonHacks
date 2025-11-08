@@ -1,0 +1,22 @@
+{
+  "glucose": {
+    "value": 120.0,
+    "units": "mg/dL"
+  },
+  "cholesterol": {
+    "value": 200.0,
+    "units": "mg/dL"
+  },
+  "triglycerides": {
+    "value": 150.0,
+    "units": "mg/dL"
+  },
+  "ALT": {
+    "value": 38.0,
+    "units": "U/L"
+  },
+  "AST": {
+    "value": 42.5,
+    "units": "U/L"
+  }
+}

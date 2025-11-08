@@ -1,0 +1,46 @@
+
+Virtual Mouse Lab - Phenotype Twin Simulation Summary
+=====================================================
+
+Simulation Date: 2025-11-08 14:03:10
+
+PHENOTYPIC TWIN COMPARISON SUMMARY:
+-----------------------------------
+Genetic Similarity: 0.229
+Phenotype Similarity: 1.000
+Overall Similarity: 0.615
+
+REAL-LIKE MOUSE PHENOTYPES:
+---------------------------
+  anxiety_score: 0.700
+  memory_score: 0.500
+  obesity_score: 0.550
+  tumor_risk: 0.100
+  aggression_score: 0.400
+  glucose: 1.000
+  cholesterol: 1.000
+  triglycerides: 1.000
+  ALT: 1.000
+
+SYNTHETIC MOUSE PHENOTYPES (MIMIC):
+-----------------------------------
+  anxiety_score: 0.700
+  memory_score: 0.500
+  obesity_score: 0.550
+  tumor_risk: 0.100
+  aggression_score: 0.400
+  glucose: 1.000
+  cholesterol: 1.000
+  triglycerides: 1.000
+  ALT: 1.000
+
+EXPERIMENTAL RESULTS:
+---------------------
+  experiment_0: high_fat_diet with {'obesity_increase': 0.15}
+  experiment_1: drug_treatment with {'drug_name': 'NewDrugX', 'dose_mg_kg': 20.0}
+
+BEHAVIOR ANALYSIS:
+------------------
+  center_time_similarity: 1.000
+  distance_similarity: 0.998
+  speed_similarity: 0.998

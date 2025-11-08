@@ -1,0 +1,15 @@
+{
+  "experiment_0": {
+    "type": "high_fat_diet",
+    "params": {
+      "obesity_increase": 0.15
+    }
+  },
+  "experiment_1": {
+    "type": "drug_treatment",
+    "params": {
+      "drug_name": "NewDrugX",
+      "dose_mg_kg": 20.0
+    }
+  }
+}
