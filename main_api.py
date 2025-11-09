@@ -15,12 +15,24 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from virtual_mouse_lab import VirtualMouseLab
+from fastapi.middleware.cors import CORSMiddleware
 
 
 app = FastAPI(
     title="Virtual Mouse Lab API",
     description="An in-silico platform for creating synthetic mice, running experiments, and generating research data",
     version="1.0.0"
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
