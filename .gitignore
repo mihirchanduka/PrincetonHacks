@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node/Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts & local data
+*.log
+*.zip
+synthetic_mimic_mice_*/
+synthetic_mimic_mice_*/*
+
+# Do not ignore public assets you intentionally add
+!frontend/public/*
+
+

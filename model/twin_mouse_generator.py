@@ -6,7 +6,7 @@ import pandas as pd
 from Bio import SeqIO
 from Bio.Seq import Seq, MutableSeq
 from Bio.SeqRecord import SeqRecord
-import vcf
+# import vcf  # Not currently used - commented out to avoid dependency issues
 import json
 import random
 from typing import Dict, List, Tuple, Optional
